@@ -1,7 +1,7 @@
 
 ![[Pasted image 20260924203036.png]]
 
-Resident of [[Sheerla]].  An Archealogist and Goliath, he has red gray hair, mutton chops, and a booming voice. He often carries a fiddle case and large backpack. He is well known for his acts of charity and generosity. 
+Resident of [[Sheerla]].  An Archealogist and Goliath, he has red gray hair, mutton chops, and a booming voice. He often carries a fiddle case and large backpack. He is well known for his acts of charity and generosity, giving out large sums of gold. 
 
 His focus of study is the old lich kingdom of [[Grugaran the Dodkong]].
 
