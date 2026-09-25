@@ -24,8 +24,10 @@ views:
 
 ```
 
-Capital city of the [[Kingdom of Nilt]]. 
+Capital city of the [[Kingdom of Nilt]]. High levels of wealth inequality. 
 
 Notable people
 - [[Bibfius Tirog Rayor]]
 - [[Virtue]]
+- [[Mysterious Woman]]
+- [[Vincent]] 

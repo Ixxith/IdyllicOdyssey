@@ -25,8 +25,9 @@ views:
 
 The current leader is King Alfred Montrush, who rules from the capital, [[Sheerla]].
 
-The Kingdom of Nilt is an old kingdom, built on the foundations of the giant kingdom once ruled by [[Grugaran the Dodkong]] 
-  Few monsters are found on the eastern part of the Kingdom, but as one draws closer to the more perilous locations like the Canlands or the Toxic Lands, more dangerous monsters and creatures can be found.
+The Kingdom of Nilt is an old kingdom, built on the foundations of the giant kingdom once ruled by [[Grugaran the Dodkong]]. 
+
+Despite it's isolation, few monsters are found on the eastern part of the Kingdom, but as one draws closer to the more perilous locations like the Canlands or the Toxic Lands, more dangerous monsters and creatures can be found.
 
 Notable Cities:
 - [[Sheerla]]
