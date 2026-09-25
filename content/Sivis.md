@@ -1,2 +1,0 @@
-![[Master Sivis.webp]]
-Head of the local [[Shifting Faces Admin Office]] in [[Dionysopolis]]. Likes calm and boring things, making him a prime candidate to lead the bureaucratic efforts in this region.
