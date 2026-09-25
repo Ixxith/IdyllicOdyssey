@@ -1,10 +1,12 @@
 ---
-title: Like Flies to Honey DnD Campaign
+title: Idyllic Odyssey DnD Campaign
 ---
 # Welcome players!
 
 ## Quick Links
 -  [[World Map]]
+-  [[Kingdom of NIlt]]
+-  [[Sheerla]]
 
 
 
